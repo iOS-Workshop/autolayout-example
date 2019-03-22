@@ -4,4 +4,5 @@ target 'UIExample' do
   use_frameworks!
 
   pod 'Nimble'
+  pod 'Quick'
 end
